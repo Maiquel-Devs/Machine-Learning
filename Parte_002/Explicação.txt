@@ -1,0 +1,6 @@
+1 - Mostra como se usa Perceptron
+2 - Mostra como se usa Perceptron de uma forma melhor
+3 - Mostra a entradas de novos dados apos ser treinado 
+
+
+--> Apos usar a função predict() ele não treina mais ele já executa o que aprendeu 
