@@ -1,0 +1,7 @@
+A regressão é uma técnica de aprendizado supervisionado usada quando queremos prever valores contínuos (números reais), e não categorias (como sim/não, homem/mulher, etc.).
+
+| Problema                    | Entrada (X)                                 | Saída esperada (y - valor contínuo) |
+| --------------------------- | ------------------------------------------- | ----------------------------------- |
+| Previsão de preços de casas | Tamanho da casa, nº de quartos, localização | Preço da casa em R\$                |
+| Estimar temperatura         | Hora do dia, localização, umidade           | Temperatura em °C                   |
+| Previsão de vendas          | Dia da semana, promoções, estoque           | Vendas em unidades                  |
