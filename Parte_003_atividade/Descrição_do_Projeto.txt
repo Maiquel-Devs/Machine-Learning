@@ -1,0 +1,47 @@
+Descrição:
+
+Este projeto utiliza Machine Learning com regressão linear para prever o preço de uma casa com base em características simples, como:
+
+1 - Área (em m²)
+
+2 - Número de quartos
+
+3 - Número de banheiros
+
+Os dados são fictícios e foram definidos manualmente para fins de aprendizado.
+
+
+Etapas realizadas:
+
+1 - Criação do conjunto de dados fictício.
+
+    Inclui 10 exemplos com área, quartos, banheiros e preço da casa.
+
+
+2 - Separação dos dados em treino e teste.
+
+    80% dos dados para treinamento.
+    20% para teste (avaliação do modelo).
+
+
+3 - Criação e treino do modelo.
+
+    Utilizou o algoritmo de Regressão Linear da biblioteca scikit-learn.
+
+
+4 - Avaliação do desempenho.
+
+    Métricas usadas:
+    
+        mean_squared_error (Erro quadrático médio)
+        r2_score (Coeficiente de determinação R²)
+
+
+5 - Previsão de um novo exemplo.
+
+    O modelo estima o preço de uma casa com 100 m², 3 quartos e 2 banheiros.
+
+
+Objetivo:
+
+    Praticar a aplicação de modelos de regressão para prever um valor numérico, compreendendo as etapas de preparação de dados, modelagem e avaliação.
