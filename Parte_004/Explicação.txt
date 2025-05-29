@@ -1,0 +1,14 @@
+Modelo Binário
+ 
+O modelo prever resposta baseado em "Sim ou Não", "Verdadeiro ou Falso", "0 e 1" através dos dados.
+
+
+| Pergunta                 | Saída esperada             |
+| ------------------------ | -------------------------- |
+| O cliente vai comprar?   | **Sim (1)** ou **Não (0)** |
+| Esse e-mail é spam?      | **Sim (1)** ou **Não (0)** |
+| O paciente tem a doença? | **Sim (1)** ou **Não (0)** |
+| O aluno passou na prova? | **Sim (1)** ou **Não (0)** |
+
+
+Se a probabilidade for, por exemplo, ≥ 0.5 → o modelo prevê 1, senão 0.
