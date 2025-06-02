@@ -37,8 +37,6 @@ for i, resultado in enumerate(previsoes):
 
 
 
-# Aqui os dados são respondidos com 0 ou 1.
-
-# O Modelo prever se os novos alunos têm chance de serem aprovados.
+# Projeto que prever se o aluno será aprovado com base nas horas de estudos e quantidade de faltas.
 
 # Parecido com o projeto anterior mas aqui os dados são respondidos com 0 e 1. 
